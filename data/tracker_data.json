@@ -1,0 +1,107 @@
+[
+  {
+    "user_id": "621e2e3c",
+    "name": "Wanjiku Kamau",
+    "email": "wanjiku.kamau@gmail.com",
+    "projects": [
+      {
+        "project_id": "b177395d",
+        "title": "Nairobi E-Commerce Platform",
+        "description": "Online marketplace for Nairobi traders",
+        "due_date": "2026-09-30",
+        "tasks": []
+      },
+      {
+        "project_id": "83a5ad0b",
+        "title": "M-Pesa Integration Module",
+        "description": "Payment gateway integration for mobile money",
+        "due_date": "2026-08-15",
+        "tasks": []
+      }
+    ]
+  },
+  {
+    "user_id": "2737e376",
+    "name": "Otieno Odhiambo",
+    "email": "otieno.odhiambo@gmail.com",
+    "projects": [
+      {
+        "project_id": "9371e9ac",
+        "title": "Kenya Wildlife Tracker",
+        "description": "Mobile app for tracking wildlife in Maasai Mara",
+        "due_date": "2026-10-01",
+        "tasks": []
+      },
+      {
+        "project_id": "a395fe74",
+        "title": "Kisumu Port Logistics System",
+        "description": "Freight and logistics management for Lake Victoria port",
+        "due_date": "2026-11-30",
+        "tasks": []
+      }
+    ]
+  },
+  {
+    "user_id": "34fea58d",
+    "name": "Aisha Mwangi",
+    "email": "aisha.mwangi@gmail.com",
+    "projects": [
+      {
+        "project_id": "df64ae6d",
+        "title": "Swahili NLP Toolkit",
+        "description": "Natural language processing tools for Swahili text",
+        "due_date": "2026-12-01",
+        "tasks": []
+      },
+      {
+        "project_id": "2fe8f1f7",
+        "title": "Mombasa Tourism Dashboard",
+        "description": "Analytics dashboard for coastal tourism operators",
+        "due_date": "2026-07-31",
+        "tasks": []
+      }
+    ]
+  },
+  {
+    "user_id": "065d0f55",
+    "name": "Kipchoge Rotich",
+    "email": "kipchoge.rotich@gmail.com",
+    "projects": [
+      {
+        "project_id": "e473fe8b",
+        "title": "Rift Valley Agri-Tech App",
+        "description": "Crop monitoring and weather alerts for farmers",
+        "due_date": "2026-09-01",
+        "tasks": []
+      },
+      {
+        "project_id": "7304d224",
+        "title": "Eldoret Runner Training Portal",
+        "description": "Performance tracking platform for athletes",
+        "due_date": "2026-10-15",
+        "tasks": []
+      }
+    ]
+  },
+  {
+    "user_id": "ca9f43cd",
+    "name": "Zawadi Njoroge",
+    "email": "zawadi.njoroge@gmail.com",
+    "projects": [
+      {
+        "project_id": "5d2514e1",
+        "title": "Nairobi Traffic AI",
+        "description": "Real-time traffic prediction using machine learning",
+        "due_date": "2026-08-30",
+        "tasks": []
+      },
+      {
+        "project_id": "b8daae9d",
+        "title": "Kenya Schools LMS",
+        "description": "Learning management system for public secondary schools",
+        "due_date": "2026-11-01",
+        "tasks": []
+      }
+    ]
+  }
+]
